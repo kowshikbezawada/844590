@@ -1,9 +1,0 @@
-c:\users\bltuser.blt17\source\repos\bankcompo\accountinfo\bin\Debug\accountinfo.exe.config
-c:\users\bltuser.blt17\source\repos\bankcompo\accountinfo\bin\Debug\accountinfo.exe
-c:\users\bltuser.blt17\source\repos\bankcompo\accountinfo\bin\Debug\accountinfo.pdb
-c:\users\bltuser.blt17\source\repos\bankcompo\accountinfo\bin\Debug\bankcompo.dll
-c:\users\bltuser.blt17\source\repos\bankcompo\accountinfo\bin\Debug\bankcompo.pdb
-c:\users\bltuser.blt17\source\repos\bankcompo\accountinfo\obj\Debug\accountinfo.csprojResolveAssemblyReference.cache
-c:\users\bltuser.blt17\source\repos\bankcompo\accountinfo\obj\Debug\accountinfo.csproj.CoreCompileInputs.cache
-c:\users\bltuser.blt17\source\repos\bankcompo\accountinfo\obj\Debug\accountinfo.exe
-c:\users\bltuser.blt17\source\repos\bankcompo\accountinfo\obj\Debug\accountinfo.pdb
