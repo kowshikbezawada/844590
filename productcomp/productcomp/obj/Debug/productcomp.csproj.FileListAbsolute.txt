@@ -1,0 +1,6 @@
+c:\users\bltuser.blt17\source\repos\productcomp\productcomp\bin\Debug\productcomp.dll
+c:\users\bltuser.blt17\source\repos\productcomp\productcomp\bin\Debug\productcomp.pdb
+c:\users\bltuser.blt17\source\repos\productcomp\productcomp\obj\Debug\productcomp.csprojResolveAssemblyReference.cache
+c:\users\bltuser.blt17\source\repos\productcomp\productcomp\obj\Debug\productcomp.csproj.CoreCompileInputs.cache
+c:\users\bltuser.blt17\source\repos\productcomp\productcomp\obj\Debug\productcomp.dll
+c:\users\bltuser.blt17\source\repos\productcomp\productcomp\obj\Debug\productcomp.pdb
