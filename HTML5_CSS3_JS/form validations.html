@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+<head>
+<title>My Forms concept in js</title>
+</head>
+
+<body>
+<form id="My Form" method="post">
+Nmae:<input type="text" id="text1"></br>
+Dob:<input type="date" id="dob" required></br>
+<button onclick="mycheck()">submit</button>
+<script type="text/javascript">
+function mycheck()
+{
+if(document.forms["My Form"]["text1"].value=="")
+{
+alert("This field is mandatory");
+}
+}
+</script>
+</body>
+</head>
+</html>

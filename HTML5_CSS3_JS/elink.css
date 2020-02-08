@@ -1,0 +1,16 @@
+body{background-color:red;
+     color:white;
+	 }
+	 
+p{
+  font-family:Times New Roman;
+  font-size:30px;
+  color:yellow;
+  }
+  
+ div{background-color:grey;
+    width: 300px;
+	border: 15px solid black;
+	padding: 50px;
+    margin: 20px;
+	}

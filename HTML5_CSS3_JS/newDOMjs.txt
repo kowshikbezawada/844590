@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+<head>
+<title>javascript DOM programing</title>
+</head>
+<body>
+
+first number:<input type="text" id="text1"></br>
+second number:<input type="text" id="text2"></br>
+ 
+<button id="btnshow" onclick="show()">show result</button>
+
+<script type="text/javascript">
+
+</script>
+
+</body>
+</html>
+
