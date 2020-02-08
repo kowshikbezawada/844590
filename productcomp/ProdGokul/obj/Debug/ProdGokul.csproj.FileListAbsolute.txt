@@ -1,9 +1,0 @@
-c:\users\bltuser.blt17\source\repos\productcomp\ProdGokul\bin\Debug\ProdGokul.exe.config
-c:\users\bltuser.blt17\source\repos\productcomp\ProdGokul\bin\Debug\ProdGokul.exe
-c:\users\bltuser.blt17\source\repos\productcomp\ProdGokul\bin\Debug\ProdGokul.pdb
-c:\users\bltuser.blt17\source\repos\productcomp\ProdGokul\bin\Debug\productcomp.dll
-c:\users\bltuser.blt17\source\repos\productcomp\ProdGokul\bin\Debug\productcomp.pdb
-c:\users\bltuser.blt17\source\repos\productcomp\ProdGokul\obj\Debug\ProdGokul.csprojResolveAssemblyReference.cache
-c:\users\bltuser.blt17\source\repos\productcomp\ProdGokul\obj\Debug\ProdGokul.csproj.CoreCompileInputs.cache
-c:\users\bltuser.blt17\source\repos\productcomp\ProdGokul\obj\Debug\ProdGokul.exe
-c:\users\bltuser.blt17\source\repos\productcomp\ProdGokul\obj\Debug\ProdGokul.pdb
